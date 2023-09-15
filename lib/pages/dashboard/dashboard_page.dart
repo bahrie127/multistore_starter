@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:multistore_app/pages/more/more_page.dart';
+import 'package:multistore_app/pages/order_history/order_history_page.dart';
 
 import '../../utils/images.dart';
 import '../home/home_page.dart';
@@ -24,10 +26,8 @@ class _HomePageState extends State<DashboardPage> {
 
     _screens = [
       const HomePage(),
-      SizedBox(),
-      SizedBox(),
-      SizedBox(),
-      SizedBox(),
+      const OrderHistoryPage(),
+      const MorePage(),
     ];
   }
 

@@ -17,4 +17,12 @@ class Images {
       'assets/images/toolbar_background.jpg';
   static const String wishlist = 'assets/images/wishlist.png';
   static const String delete = 'assets/images/delete.png';
+  static const String morePageHeader = 'assets/images/more_page_header.png';
+  static const String logoWithNameImageWhite = 'assets/images/logo_white.png';
+  static const String termCondition = 'assets/images/terms-and-conditions.png';
+  static const String privacyPolicy = 'assets/images/privacy_policy.png';
+  static const String helpCenter = 'assets/images/help_center.png';
+  static const String aboutUs = 'assets/images/about_us.png';
+  static const String contactUs = 'assets/images/contact_us.png';
+  
 }

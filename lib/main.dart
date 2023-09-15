@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:multistore_app/pages/auth/auth_page.dart';
 import 'package:multistore_app/pages/dashboard/dashboard_page.dart';
+import 'package:multistore_app/pages/splash/splash_page.dart';
 import 'package:multistore_app/utils/light_themes.dart';
 
 void main() {
